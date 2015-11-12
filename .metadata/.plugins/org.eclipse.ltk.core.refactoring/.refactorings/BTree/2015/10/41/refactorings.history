@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;BTree&apos; to &apos;Btree&apos;&#x0A;- Original project: &apos;BTree&apos;&#x0A;- Original element: &apos;BTree&apos;&#x0A;- Renamed element: &apos;Btree&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;BTree&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{BTree.java[BTree" matchStrategy="1" name="Btree" qualified="false" references="true" similarDeclarations="false" stamp="1444440850064" textual="false" version="1.0"/>
+</session>

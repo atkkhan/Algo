@@ -1,0 +1,46 @@
+package roblox;
+
+import java.lang.UnsupportedOperationException;
+import java.util.ArrayList;
+import java.util.List;
+
+public class Problem1 {
+    public static List<Integer> collateSortedLists(List<Integer> l1, List<Integer> l2) {
+
+    	List<Integer> list = new ArrayList<>();
+    	int i = 0;
+    	int j = 0;
+
+    	while(i < l1.size() && j < l2.size()){
+    		
+    		int v1 = (i == l1.size())? Integer.MAX_VALUE: l1.get(i); 
+    		int v2 = (j == l2.size())? Integer.MAX_VALUE: l2.get(j);	
+    		
+    		if(v1 < v2 || j == l2.size()){
+    			list.add(v1);
+    			i++;
+    		}
+    		else if(v1 > v2 || i == l1.size()){
+    			list.add(v2);
+    			j++;
+    		}
+    	}
+    	return list;
+    }
+    
+    
+    public static void main(String[] args){
+    	List l1 = new ArrayList();
+    	l1.add(0);
+    	l1.add(2);
+    	l1.add(3);
+
+    	List l2 = new ArrayList();
+    	l2.add(1);
+    	l2.add(3);
+    	l2.add(4);
+    	l2.add(5);
+
+    	collateSortedLists(l1, l2);
+    }
+}

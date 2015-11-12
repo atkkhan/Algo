@@ -1,0 +1,7 @@
+2015-04-04 23:00:53,212 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-04-04 23:00:53,736 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/mobitv/share/maven/mobitv-super-pom-war/3.0.9/mobitv-super-pom-war-3.0.9.pom
+2015-04-04 23:00:53,751 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-04-04 23:00:53,933 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/mobitv/share/maven/mobitv-super-pom-war/3.0.16/mobitv-super-pom-war-3.0.16.pom
+2015-04-04 23:01:36,099 [Worker-5] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 0 sec
+2015-04-04 23:01:36,208 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-04-04 23:01:36,209 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec

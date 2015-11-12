@@ -1,0 +1,8 @@
+package org.neon.service;
+
+import java.awt.Image;
+
+public interface ImageCache {
+	public void storeImage(Image img, int w, int h);
+	public Image getImage(String id);
+}

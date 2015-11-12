@@ -1,0 +1,826 @@
+2015-11-05 09:33:12,486 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2015-11-05 09:33:12,493 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2015-11-05 09:33:12,494 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2015-11-05 09:33:15,835 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:SpringMVC:1.0-SNAPSHOT @ /Users/khan_at/Downloads/Spring3MVC/pom.xml.
+2015-11-05 09:33:17,689 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMVC/src/main/java
+2015-11-05 09:33:17,690 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /SpringMVC/src/main/resources overlaps with sources folder /SpringMVC/src/main/resources
+2015-11-05 09:33:17,691 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMVC/src/test/java
+2015-11-05 09:33:18,212 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:SpringMVC:1.0-SNAPSHOT @ /Users/khan_at/Downloads/Spring3MVC/pom.xml.
+2015-11-05 09:33:19,176 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:33:19,180 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-05 09:33:19,184 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:33:19,184 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/Spring3MVC/src/test/resources
+2015-11-05 09:33:48,724 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/Spring3MVC
+2015-11-05 09:33:48,727 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-11-05 09:33:51,339 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:33:51,347 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-05 09:33:51,349 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:33:51,350 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/Spring3MVC/src/test/resources
+2015-11-05 09:34:04,024 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/Spring3MVC
+2015-11-05 09:34:04,025 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-11-05 09:34:10,264 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:34:10,265 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-05 09:34:10,268 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:34:10,269 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/Spring3MVC/src/test/resources
+2015-11-05 09:35:51,807 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:35:51,808 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-05 09:35:51,810 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:35:51,812 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/Spring3MVC/src/test/resources
+2015-11-05 09:37:06,837 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/Spring3MVC
+2015-11-05 09:37:06,837 [Worker-1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-11-05 09:37:09,394 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:37:09,395 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-05 09:37:09,397 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:37:09,398 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/Spring3MVC/src/test/resources
+2015-11-05 09:37:22,011 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-05 09:37:34,135 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/Spring3MVC
+2015-11-05 09:37:34,135 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile
+2015-11-05 09:48:40,176 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:SpringMVC:1.0-SNAPSHOT @ /Users/khan_at/Downloads/SpringMVC 2/pom.xml.
+2015-11-05 09:48:40,469 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMVC/src/main/java
+2015-11-05 09:48:40,469 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /SpringMVC/src/main/resources overlaps with sources folder /SpringMVC/src/main/resources
+2015-11-05 09:48:40,470 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringMVC/src/test/java
+2015-11-05 09:48:40,676 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:48:40,677 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-05 09:48:40,679 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:48:40,682 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringMVC 2/src/test/resources
+2015-11-05 09:48:41,576 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:SpringMVC:1.0-SNAPSHOT @ /Users/khan_at/Downloads/SpringMVC 2/pom.xml.
+2015-11-05 09:49:07,893 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-05 09:49:18,434 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringMVC 2
+2015-11-05 09:49:18,434 [Worker-25] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile
+2015-11-05 09:49:44,318 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:49:44,319 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-05 09:49:44,323 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:49:44,323 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringMVC 2/src/test/resources
+2015-11-05 09:57:59,930 [Worker-33] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:SpringMVC:1.0-SNAPSHOT @ /Users/khan_at/Downloads/SpringMVC 2/pom.xml.
+2015-11-05 09:58:00,070 [Worker-33] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 09:58:01,438 [New I/O client worker #1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/3.0.1/servlet-api-3.0.1.pom
+2015-11-05 09:58:01,452 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:servlet-api:jar:3.0.1 is missing, no dependency information available
+2015-11-05 09:58:01,457 [Worker-33] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 09:58:01,549 [New I/O client worker #2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/servlet-api/3.0.1/servlet-api-3.0.1.jar
+2015-11-05 09:58:01,634 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for javax.servlet:servlet-api:jar:3.0.1 is missing, no dependency information available
+2015-11-05 09:58:01,684 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:58:01,685 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-05 09:58:01,690 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:58:01,691 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringMVC 2/src/test/resources
+2015-11-05 09:58:01,692 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMVC
+2015-11-05 09:58:01,693 [Worker-33] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMVC
+2015-11-05 09:58:01,702 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:58:13,117 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-05 09:58:13,127 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringMVC 2
+2015-11-05 09:58:13,127 [Worker-15] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile
+2015-11-05 09:58:42,607 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringMVC 2
+2015-11-05 09:58:42,607 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-11-05 09:58:45,141 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:58:45,142 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-05 09:58:45,144 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:58:45,146 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringMVC 2/src/test/resources
+2015-11-05 09:58:48,300 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringMVC 2
+2015-11-05 09:58:48,300 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2015-11-05 09:59:41,460 [Worker-36] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:SpringMVC:1.0-SNAPSHOT @ /Users/khan_at/Downloads/SpringMVC 2/pom.xml.
+2015-11-05 09:59:41,622 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:59:41,622 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-05 09:59:41,624 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 09:59:41,625 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringMVC 2/src/test/resources
+2015-11-05 09:59:41,625 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringMVC
+2015-11-05 09:59:41,625 [Worker-36] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringMVC
+2015-11-05 09:59:41,629 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:00:00,947 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2015-11-05 10:00:00,959 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringMVC 2
+2015-11-05 10:00:00,959 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile
+2015-11-05 10:05:14,670 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:14,781 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2015-11-05 10:05:14,852 [New I/O client worker #3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.jar
+2015-11-05 10:05:14,934 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:15,088 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2015-11-05 10:05:15,090 [New I/O client worker #4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.1/maven-compiler-plugin-3.1.pom
+2015-11-05 10:05:15,163 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:15,217 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom
+2015-11-05 10:05:15,218 [New I/O client worker #5-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/24/maven-plugins-24.pom
+2015-11-05 10:05:15,301 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:15,386 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/23/maven-parent-23.pom
+2015-11-05 10:05:15,420 [New I/O client worker #6-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/23/maven-parent-23.pom
+2015-11-05 10:05:15,642 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:15,700 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.pom
+2015-11-05 10:05:15,701 [New I/O client worker #7-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.pom
+2015-11-05 10:05:15,922 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:15,979 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/18/maven-shared-components-18.pom
+2015-11-05 10:05:15,979 [New I/O client worker #8-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/18/maven-shared-components-18.pom
+2015-11-05 10:05:16,031 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:16,261 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/22/maven-parent-22.pom
+2015-11-05 10:05:16,300 [New I/O client worker #9-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/22/maven-parent-22.pom
+2015-11-05 10:05:16,377 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:16,455 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/apache/11/apache-11.pom
+2015-11-05 10:05:16,486 [New I/O client worker #10-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/apache/11/apache-11.pom
+2015-11-05 10:05:16,571 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:16,661 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.pom
+2015-11-05 10:05:16,661 [New I/O client worker #11-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.pom
+2015-11-05 10:05:16,711 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:16,781 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.pom
+2015-11-05 10:05:16,782 [New I/O client worker #12-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.pom
+2015-11-05 10:05:16,831 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:16,909 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/19/maven-shared-components-19.pom
+2015-11-05 10:05:16,910 [New I/O client worker #13-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/19/maven-shared-components-19.pom
+2015-11-05 10:05:16,977 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:17,064 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+2015-11-05 10:05:17,077 [New I/O client worker #14-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+2015-11-05 10:05:17,146 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:17,225 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom
+2015-11-05 10:05:17,226 [New I/O client worker #15-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom
+2015-11-05 10:05:17,296 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:17,358 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+2015-11-05 10:05:17,359 [New I/O client worker #16-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.pom
+2015-11-05 10:05:17,455 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:17,509 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.pom
+2015-11-05 10:05:17,510 [New I/O client worker #17-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11.pom
+2015-11-05 10:05:17,552 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:17,644 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom
+2015-11-05 10:05:17,645 [New I/O client worker #18-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-parameter-documenter-2.2.1.pom
+2015-11-05 10:05:17,720 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:17,793 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+2015-11-05 10:05:17,795 [New I/O client worker #19-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+2015-11-05 10:05:17,917 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:17,996 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom
+2015-11-05 10:05:17,996 [New I/O client worker #20-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom
+2015-11-05 10:05:18,052 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:18,147 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom
+2015-11-05 10:05:18,148 [New I/O client worker #21-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.pom
+2015-11-05 10:05:18,193 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:18,263 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.pom
+2015-11-05 10:05:18,264 [New I/O client worker #22-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metadata-2.2.1.pom
+2015-11-05 10:05:18,370 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:18,440 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom
+2015-11-05 10:05:18,440 [New I/O client worker #23-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-2.2.1.pom
+2015-11-05 10:05:18,494 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:18,662 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom
+2015-11-05 10:05:18,663 [New I/O client worker #24-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom
+2015-11-05 10:05:19,028 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:19,144 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.pom
+2015-11-05 10:05:19,144 [New I/O client worker #25-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.2.1.pom
+2015-11-05 10:05:19,196 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:19,277 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.pom
+2015-11-05 10:05:19,278 [New I/O client worker #26-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.pom
+2015-11-05 10:05:19,342 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:19,406 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom
+2015-11-05 10:05:19,407 [New I/O client worker #27-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.1.pom
+2015-11-05 10:05:19,491 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:19,635 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom
+2015-11-05 10:05:19,636 [New I/O client worker #28-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-2.2.1.pom
+2015-11-05 10:05:19,685 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:19,771 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+2015-11-05 10:05:19,772 [New I/O client worker #29-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+2015-11-05 10:05:19,812 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:20,104 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.pom
+2015-11-05 10:05:20,104 [New I/O client worker #30-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-sec-dispatcher/1.3/plexus-sec-dispatcher-1.3.pom
+2015-11-05 10:05:20,158 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:20,253 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/12/spice-parent-12.pom
+2015-11-05 10:05:20,253 [New I/O client worker #31-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/spice/spice-parent/12/spice-parent-12.pom
+2015-11-05 10:05:20,304 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:20,430 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/4/forge-parent-4.pom
+2015-11-05 10:05:20,432 [New I/O client worker #32-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/forge/forge-parent/4/forge-parent-4.pom
+2015-11-05 10:05:20,510 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:20,635 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom
+2015-11-05 10:05:20,636 [New I/O client worker #33-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/sonatype/plexus/plexus-cipher/1.4/plexus-cipher-1.4.pom
+2015-11-05 10:05:20,698 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:20,779 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.pom
+2015-11-05 10:05:20,780 [New I/O client worker #34-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.pom
+2015-11-05 10:05:20,820 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:20,944 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.2/plexus-compiler-2.2.pom
+2015-11-05 10:05:20,944 [New I/O client worker #35-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler/2.2/plexus-compiler-2.2.pom
+2015-11-05 10:05:20,992 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:21,099 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3.1/plexus-components-1.3.1.pom
+2015-11-05 10:05:21,100 [New I/O client worker #36-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.3.1/plexus-components-1.3.1.pom
+2015-11-05 10:05:21,139 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:21,209 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.1/plexus-3.3.1.pom
+2015-11-05 10:05:21,265 [New I/O client worker #37-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.3.1/plexus-3.3.1.pom
+2015-11-05 10:05:21,338 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:21,401 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.pom
+2015-11-05 10:05:21,402 [New I/O client worker #38-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.0.8/plexus-utils-3.0.8.pom
+2015-11-05 10:05:21,464 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:21,577 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.2/plexus-3.2.pom
+2015-11-05 10:05:21,620 [New I/O client worker #39-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/3.2/plexus-3.2.pom
+2015-11-05 10:05:21,668 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:21,760 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.pom
+2015-11-05 10:05:21,761 [New I/O client worker #40-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.pom
+2015-11-05 10:05:21,824 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:21,908 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.pom
+2015-11-05 10:05:21,909 [New I/O client worker #41-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.pom
+2015-11-05 10:05:21,955 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:22,040 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.2/plexus-compilers-2.2.pom
+2015-11-05 10:05:22,041 [New I/O client worker #42-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compilers/2.2/plexus-compilers-2.2.pom
+2015-11-05 10:05:22,097 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:22,155 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.pom
+2015-11-05 10:05:22,156 [New I/O client worker #43-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-container-default/1.5.5/plexus-container-default-1.5.5.pom
+2015-11-05 10:05:22,206 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:22,270 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.pom
+2015-11-05 10:05:22,270 [New I/O client worker #44-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-classworlds/2.2.2/plexus-classworlds-2.2.2.pom
+2015-11-05 10:05:22,316 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:22,422 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.pom
+2015-11-05 10:05:22,423 [New I/O client worker #45-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.pom
+2015-11-05 10:05:22,587 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:22,707 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.4/xbean-3.4.pom
+2015-11-05 10:05:22,738 [New I/O client worker #46-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/xbean/xbean/3.4/xbean-3.4.pom
+2015-11-05 10:05:22,801 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:22,871 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.pom
+2015-11-05 10:05:22,871 [New I/O client worker #47-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.pom
+2015-11-05 10:05:22,944 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:23,062 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.pom
+2015-11-05 10:05:23,062 [New I/O client worker #48-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.pom
+2015-11-05 10:05:23,111 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:23,194 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/google/1/google-1.pom
+2015-11-05 10:05:23,195 [New I/O client worker #49-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/google/1/google-1.pom
+2015-11-05 10:05:23,267 [ModalContext] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:23,387 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar
+2015-11-05 10:05:23,389 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.jar
+2015-11-05 10:05:23,390 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.jar
+2015-11-05 10:05:23,391 [New I/O client worker #50-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.jar
+2015-11-05 10:05:23,391 [New I/O client worker #50-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.jar
+2015-11-05 10:05:23,391 [New I/O client worker #50-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-manager/2.2/plexus-compiler-manager-2.2.jar
+2015-11-05 10:05:23,404 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar
+2015-11-05 10:05:23,412 [New I/O client worker #50-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar
+2015-11-05 10:05:23,431 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.jar
+2015-11-05 10:05:23,432 [New I/O client worker #50-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.jar
+2015-11-05 10:05:23,432 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/3.8.2/junit-3.8.2.jar
+2015-11-05 10:05:23,433 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar
+2015-11-05 10:05:23,433 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2015-11-05 10:05:23,486 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar
+2015-11-05 10:05:23,490 [New I/O client worker #50-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-api/2.2/plexus-compiler-api-2.2.jar
+2015-11-05 10:05:23,516 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar
+2015-11-05 10:05:23,551 [New I/O client worker #50-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-compiler-javac/2.2/plexus-compiler-javac-2.2.jar
+2015-11-05 10:05:23,632 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1.jar
+2015-11-05 10:05:23,672 [New I/O client worker #50-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/xbean/xbean-reflect/3.4/xbean-reflect-3.4.jar
+2015-11-05 10:05:23,733 [New I/O client worker #50-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/0.1/maven-shared-utils-0.1.jar
+2015-11-05 10:05:23,733 [New I/O client worker #50-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/3.8.2/junit-3.8.2.jar
+2015-11-05 10:05:23,814 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/1.5.1/plexus-utils-1.5.1.jar
+2015-11-05 10:05:24,038 [New I/O client worker #50-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.12/log4j-1.2.12.jar
+2015-11-05 10:05:24,201 [New I/O client worker #50-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/google/collections/google-collections/1.0/google-collections-1.0.jar
+2015-11-05 10:05:28,039 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/pom.xml.
+2015-11-05 10:05:28,041 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:28,132 [New I/O client worker #51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2015-11-05 10:05:28,136 [New I/O client worker #51-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2015-11-05 10:05:28,202 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:28,286 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2015-11-05 10:05:28,286 [New I/O client worker #52-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/net/java/jvnet-parent/3/jvnet-parent-3.pom
+2015-11-05 10:05:28,326 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:28,473 [New I/O client worker #53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.1.RELEASE/spring-core-4.2.1.RELEASE.pom
+2015-11-05 10:05:28,474 [New I/O client worker #53-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.1.RELEASE/spring-core-4.2.1.RELEASE.pom
+2015-11-05 10:05:28,530 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:28,622 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2015-11-05 10:05:28,652 [New I/O client worker #54-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom
+2015-11-05 10:05:28,714 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:28,940 [New I/O client worker #55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2015-11-05 10:05:29,018 [New I/O client worker #55-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom
+2015-11-05 10:05:29,128 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:29,208 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.2.1.RELEASE/spring-webmvc-4.2.1.RELEASE.pom
+2015-11-05 10:05:29,215 [New I/O client worker #56-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.2.1.RELEASE/spring-webmvc-4.2.1.RELEASE.pom
+2015-11-05 10:05:29,265 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:29,330 [New I/O client worker #57-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.1.RELEASE/spring-beans-4.2.1.RELEASE.pom
+2015-11-05 10:05:29,331 [New I/O client worker #57-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.1.RELEASE/spring-beans-4.2.1.RELEASE.pom
+2015-11-05 10:05:29,402 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:29,543 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.1.RELEASE/spring-context-4.2.1.RELEASE.pom
+2015-11-05 10:05:29,544 [New I/O client worker #58-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.1.RELEASE/spring-context-4.2.1.RELEASE.pom
+2015-11-05 10:05:29,604 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:29,693 [New I/O client worker #59-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.pom
+2015-11-05 10:05:29,693 [New I/O client worker #59-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.pom
+2015-11-05 10:05:29,734 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:29,856 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.1.RELEASE/spring-expression-4.2.1.RELEASE.pom
+2015-11-05 10:05:29,857 [New I/O client worker #60-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.1.RELEASE/spring-expression-4.2.1.RELEASE.pom
+2015-11-05 10:05:29,943 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:30,030 [New I/O client worker #61-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.1.RELEASE/spring-web-4.2.1.RELEASE.pom
+2015-11-05 10:05:30,030 [New I/O client worker #61-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.1.RELEASE/spring-web-4.2.1.RELEASE.pom
+2015-11-05 10:05:30,090 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:30,158 [New I/O client worker #62-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.1/jackson-databind-2.4.1.pom
+2015-11-05 10:05:30,158 [New I/O client worker #62-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.1/jackson-databind-2.4.1.pom
+2015-11-05 10:05:30,232 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:30,360 [New I/O client worker #63-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.4/jackson-parent-2.4.pom
+2015-11-05 10:05:30,361 [New I/O client worker #63-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.4/jackson-parent-2.4.pom
+2015-11-05 10:05:30,433 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:30,496 [New I/O client worker #64-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/16/oss-parent-16.pom
+2015-11-05 10:05:30,522 [New I/O client worker #64-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/16/oss-parent-16.pom
+2015-11-05 10:05:30,580 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:30,641 [New I/O client worker #65-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.pom
+2015-11-05 10:05:30,641 [New I/O client worker #65-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.pom
+2015-11-05 10:05:30,733 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:30,812 [New I/O client worker #66-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.1/jackson-core-2.4.1.pom
+2015-11-05 10:05:30,813 [New I/O client worker #66-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.1/jackson-core-2.4.1.pom
+2015-11-05 10:05:30,861 [Worker-39] INFO  c.n.h.c.p.n.NettyAsyncHttpProvider - Number of application's worked threads is 8
+2015-11-05 10:05:31,001 [New I/O client worker #67-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2015-11-05 10:05:31,002 [New I/O client worker #67-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.2.1.RELEASE/spring-webmvc-4.2.1.RELEASE.jar
+2015-11-05 10:05:31,005 [New I/O client worker #67-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.jar
+2015-11-05 10:05:31,006 [New I/O client worker #67-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.1.RELEASE/spring-beans-4.2.1.RELEASE.jar
+2015-11-05 10:05:31,009 [New I/O client worker #67-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.1/jackson-databind-2.4.1.jar
+2015-11-05 10:05:31,009 [New I/O client worker #67-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2015-11-05 10:05:31,018 [New I/O client worker #67-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.1.RELEASE/spring-web-4.2.1.RELEASE.jar
+2015-11-05 10:05:31,018 [New I/O client worker #67-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.1.RELEASE/spring-expression-4.2.1.RELEASE.jar
+2015-11-05 10:05:31,019 [New I/O client worker #67-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.1.RELEASE/spring-context-4.2.1.RELEASE.jar
+2015-11-05 10:05:31,031 [New I/O client worker #67-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.1.RELEASE/spring-core-4.2.1.RELEASE.jar
+2015-11-05 10:05:31,031 [New I/O client worker #67-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.1/jackson-core-2.4.1.jar
+2015-11-05 10:05:31,031 [New I/O client worker #67-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.jar
+2015-11-05 10:05:31,240 [New I/O client worker #67-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.4.0/jackson-annotations-2.4.0.jar
+2015-11-05 10:05:31,454 [New I/O client worker #67-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar
+2015-11-05 10:05:31,815 [New I/O client worker #67-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.4.1/jackson-core-2.4.1.jar
+2015-11-05 10:05:31,954 [New I/O client worker #67-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/4.2.1.RELEASE/spring-expression-4.2.1.RELEASE.jar
+2015-11-05 10:05:32,437 [New I/O client worker #67-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar
+2015-11-05 10:05:33,057 [New I/O client worker #67-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/4.2.1.RELEASE/spring-aop-4.2.1.RELEASE.jar
+2015-11-05 10:05:33,176 [New I/O client worker #67-6] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.2.1.RELEASE/spring-context-4.2.1.RELEASE.jar
+2015-11-05 10:05:33,568 [New I/O client worker #67-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-web/4.2.1.RELEASE/spring-web-4.2.1.RELEASE.jar
+2015-11-05 10:05:33,612 [New I/O client worker #67-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/4.2.1.RELEASE/spring-core-4.2.1.RELEASE.jar
+2015-11-05 10:05:34,206 [New I/O client worker #67-5] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/4.2.1.RELEASE/spring-beans-4.2.1.RELEASE.jar
+2015-11-05 10:05:34,636 [New I/O client worker #67-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.2.1.RELEASE/spring-webmvc-4.2.1.RELEASE.jar
+2015-11-05 10:05:35,636 [New I/O client worker #67-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.1/jackson-databind-2.4.1.jar
+2015-11-05 10:05:35,930 [Worker-39] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:SpringMVC:1.0-SNAPSHOT @ /Users/khan_at/Downloads/SpringMVC 2/pom.xml.
+2015-11-05 10:05:36,146 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestfulWebServicesWithJSONExample/src/main/java
+2015-11-05 10:05:36,146 [Worker-39] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestfulWebServicesWithJSONExample/src/test/java
+2015-11-05 10:05:36,529 [Worker-42] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/pom.xml.
+2015-11-05 10:05:37,168 [Worker-39] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 9 sec
+2015-11-05 10:05:37,358 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-05 10:05:37,359 [Worker-45] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-11-05 10:05:37,816 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/pom.xml.
+2015-11-05 10:05:38,051 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:05:38,052 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:05:38,054 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:05:38,054 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:05:38,411 [Worker-46] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/pom.xml.
+2015-11-05 10:05:39,192 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:05:39,192 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:05:39,194 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:05:39,195 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:08:30,391 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:08:30,392 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:08:30,393 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:08:30,393 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:11:25,374 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:11:25,375 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:11:25,377 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:11:25,377 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:12:20,568 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:12:20,569 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:12:20,570 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:12:20,571 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:13:33,673 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:13:33,674 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:13:33,679 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:13:33,680 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:13:59,963 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:13:59,963 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:13:59,965 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:13:59,966 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:14:10,328 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:14:10,329 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:14:10,330 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:14:10,330 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:19:38,406 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:19:38,407 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:19:38,408 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:19:38,409 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:21:38,859 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-05 10:21:50,668 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-05 10:21:54,222 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample
+2015-11-05 10:21:54,222 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2015-11-05 10:22:06,216 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:22:06,217 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:22:06,219 [Worker-48] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:22:06,221 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:23:56,821 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:23:56,821 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:23:56,823 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:23:56,824 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:23:57,954 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:23:57,955 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:23:57,957 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:23:57,959 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:24:16,161 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample
+2015-11-05 10:24:16,161 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-11-05 10:24:20,092 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:24:20,092 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:24:20,094 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:24:20,096 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:24:37,672 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample
+2015-11-05 10:24:37,672 [Worker-41] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2015-11-05 10:27:45,551 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:27:45,551 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:27:45,553 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:27:45,553 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:28:37,764 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:28:37,764 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:28:37,765 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:28:37,768 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:29:13,842 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:29:13,842 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:29:13,843 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:29:13,844 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:29:56,073 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample
+2015-11-05 10:29:56,073 [Worker-51] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2015-11-05 10:29:56,212 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:29:56,213 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:29:56,215 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:29:56,217 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:38:53,140 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:38:53,143 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:38:53,145 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:38:53,145 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:39:16,343 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:39:16,344 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:39:16,346 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:39:16,347 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:40:11,729 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:40:11,730 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:40:11,731 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:40:11,732 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:40:22,791 [Worker-47] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringRestfulWebServicesWithJSONExample
+2015-11-05 10:40:22,961 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:40:22,962 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:40:22,964 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:40:22,966 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:40:24,892 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:40:24,893 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:40:24,894 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:40:24,897 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 10:41:06,748 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample
+2015-11-05 10:41:06,748 [Worker-50] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2015-11-05 10:43:00,899 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:43:00,900 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 10:43:00,901 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 10:43:00,901 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:07:24,552 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:07:24,552 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:07:24,554 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:07:24,557 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:08:55,818 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:08:55,819 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:08:55,820 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:08:55,820 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:09:00,078 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:09:00,079 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:09:00,080 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:09:00,083 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:09:40,125 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:09:40,126 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:09:40,127 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:09:40,128 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:17:06,567 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:17:06,567 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:17:06,568 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:17:06,569 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:19:34,296 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:19:34,297 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:19:34,298 [Worker-80] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:19:34,299 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:19:42,578 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:19:42,578 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:19:42,580 [Worker-69] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:19:42,581 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:25:18,216 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:25:18,216 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:25:18,219 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:25:18,219 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:27:41,317 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:27:41,318 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:27:41,320 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:27:41,321 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:27:55,986 [Worker-76] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample
+2015-11-05 11:27:55,986 [Worker-76] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-11-05 11:27:58,500 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:27:58,501 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:27:58,503 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:27:58,505 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:34:22,526 [Worker-91] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/pom.xml.
+2015-11-05 11:34:24,711 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:34:24,713 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:34:24,715 [Worker-95] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:34:24,717 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:35:13,685 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample
+2015-11-05 11:35:13,685 [Worker-48] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean
+2015-11-05 11:35:16,265 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:35:16,266 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:35:16,268 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:35:16,270 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:35:36,327 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample
+2015-11-05 11:35:36,327 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2015-11-05 11:37:58,778 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:37:58,779 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:37:58,782 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:37:58,783 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:38:13,634 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:38:13,635 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:38:13,637 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:38:13,639 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:38:35,246 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:38:35,247 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:38:35,248 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:38:35,251 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:38:44,693 [Worker-92] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for neonImageProcessor
+2015-11-05 11:38:44,838 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:38:44,839 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:38:44,840 [Worker-96] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:38:44,843 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:39:00,508 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:39:00,509 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:39:00,511 [Worker-91] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:39:00,511 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:39:13,741 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample
+2015-11-05 11:39:13,741 [Worker-91] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B compile
+2015-11-05 11:39:46,737 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:39:46,738 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:39:46,740 [Worker-93] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:39:46,742 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:43:27,914 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:43:27,943 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:43:27,945 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:43:27,946 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:43:41,708 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:43:41,709 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:43:41,711 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:43:41,711 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:43:59,781 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:43:59,782 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:43:59,784 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:43:59,786 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:44:14,995 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:44:14,996 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:44:14,997 [Worker-98] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:44:14,998 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:45:02,189 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:45:02,189 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:45:02,191 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:45:02,191 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:46:34,111 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:46:34,111 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:46:34,113 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:46:34,113 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:49:17,044 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:49:17,045 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:49:17,046 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:49:17,046 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:53:07,110 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:53:07,110 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:53:07,112 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:53:07,112 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:54:17,785 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:54:17,785 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:54:17,786 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:54:17,787 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:54:44,227 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:54:44,228 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:54:44,229 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:54:44,230 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:55:09,799 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:55:09,799 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:55:09,801 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:55:09,801 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:55:16,202 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:55:16,202 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:55:16,203 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:55:16,204 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:55:26,370 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:55:26,371 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:55:26,372 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:55:26,373 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:55:32,147 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:55:32,147 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:55:32,149 [Worker-90] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:55:32,149 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:55:58,985 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:55:58,986 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:55:58,988 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:55:58,990 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:56:31,674 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:56:31,674 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:56:31,676 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:56:31,676 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:56:54,891 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:56:54,892 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:56:54,893 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:56:54,896 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:57:00,794 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:57:00,795 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:57:00,798 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:57:00,799 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 11:57:45,235 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:57:45,235 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 11:57:45,237 [Worker-103] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 11:57:45,237 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:01:21,739 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:01:21,739 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:01:21,740 [Worker-101] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:01:21,741 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:01:52,945 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:01:52,945 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:01:52,947 [Worker-100] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:01:52,949 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:03:55,151 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:03:55,151 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:03:55,153 [Worker-97] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:03:55,153 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:09:04,883 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:09:04,883 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:09:04,885 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:09:04,886 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:11:38,454 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:11:38,455 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:11:38,458 [Worker-104] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:11:38,459 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:11:59,184 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:11:59,184 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:11:59,186 [Worker-102] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:11:59,188 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:17:24,967 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:17:24,968 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:17:24,970 [Worker-106] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:17:24,972 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:20:45,915 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:20:45,917 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:20:45,921 [Worker-112] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:20:45,922 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:21:57,562 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:21:57,563 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:21:57,564 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:21:57,564 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:22:40,769 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:22:40,770 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:22:40,771 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:22:40,772 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:22:55,359 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:22:55,360 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:22:55,361 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:22:55,361 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:23:56,485 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:23:56,486 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:23:56,487 [Worker-115] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:23:56,488 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:28:06,943 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:28:06,944 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:28:06,946 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:28:06,947 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:28:11,911 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:28:11,912 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:28:11,913 [Worker-113] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:28:11,914 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:28:16,587 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:28:16,588 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:28:16,589 [Worker-117] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:28:16,592 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:29:57,088 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:29:57,089 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:29:57,090 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:29:57,091 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:30:14,350 [Worker-116] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for neonImageProcessor
+2015-11-05 12:30:14,513 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:30:14,514 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:30:14,515 [Worker-119] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:30:14,518 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:30:16,566 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:30:16,566 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:30:16,568 [Worker-118] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:30:16,570 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 12:32:21,819 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:32:21,820 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 12:32:21,821 [Worker-99] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 12:32:21,824 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 13:27:18,636 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 13:27:18,644 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/main/resources
+2015-11-05 13:27:18,646 [Worker-116] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-05 13:27:18,646 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringRestfulWebServicesWithJSONExample-master/SpringRestfulWebServicesWithJSONExample/src/test/resources
+2015-11-05 13:27:18,673 [Worker-116] ERROR o.e.m.e.x.i.MarkerLocationService - null
+org.eclipse.jface.text.BadLocationException: null
+	at org.eclipse.jface.text.ListLineTracker.getLineOffset(ListLineTracker.java:201) ~[na:na]
+	at org.eclipse.jface.text.AbstractLineTracker.getLineOffset(AbstractLineTracker.java:169) ~[na:na]
+	at org.eclipse.wst.sse.core.internal.text.BasicStructuredDocument.getLineOffset(BasicStructuredDocument.java:1495) ~[na:na]
+	at org.eclipse.m2e.editor.xml.internal.MarkerLocationService.findLocationForMarker(MarkerLocationService.java:105) ~[na:na]
+	at org.eclipse.m2e.core.internal.markers.MarkerUtils.decorateMarker(MarkerUtils.java:45) ~[na:na]
+	at org.eclipse.m2e.core.internal.markers.MavenMarkerManager.addErrorMarker(MavenMarkerManager.java:301) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.processBuildResults(MavenBuilderImpl.java:319) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilderImpl.build(MavenBuilderImpl.java:177) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1$1.call(MavenBuilder.java:117) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1$1.call(MavenBuilder.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectManager.execute(MavenProjectManager.java:121) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:98) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$1.call(MavenBuilder.java:1) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:161) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:137) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1305) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:89) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:733) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) ~[org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:299) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) ~[org.eclipse.equinox.common_3.6.200.v20130402-1505.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:302) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:358) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:381) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:143) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:241) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53) ~[org.eclipse.core.jobs_3.5.300.v20130429-1813.jar:na]
+2015-11-09 18:09:39,019 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2015-11-09 18:09:39,031 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2015-11-09 18:09:39,032 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2015-11-09 18:09:43,678 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/neon/pom.xml.
+2015-11-09 18:09:45,363 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestfulWebServicesWithJSONExample/src/main/java
+2015-11-09 18:09:45,364 [Worker-11] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpringRestfulWebServicesWithJSONExample/src/test/java
+2015-11-09 18:09:46,035 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/neon/pom.xml.
+2015-11-09 18:09:47,609 [Worker-11] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 4 sec
+2015-11-09 18:09:47,626 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2015-11-09 18:09:47,627 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2015-11-09 18:09:48,399 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/neon/pom.xml.
+2015-11-09 18:09:48,908 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:09:48,910 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:09:48,914 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:09:48,914 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:09:49,712 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/neon/pom.xml.
+2015-11-09 18:09:50,332 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:09:50,332 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:09:50,336 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:09:50,336 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:09:53,795 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.mkyong.common:SpringMVC:1.0-SNAPSHOT @ /Users/khan_at/Downloads/SpringMVC 2/pom.xml.
+2015-11-09 18:12:42,726 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/neon/pom.xml.
+2015-11-09 18:12:43,628 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:12:43,629 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:12:43,631 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:12:43,631 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:12:43,631 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of SpringRestfulWebServicesWithJSONExample
+2015-11-09 18:12:43,632 [Worker-1] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for SpringRestfulWebServicesWithJSONExample
+2015-11-09 18:12:43,637 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:14:37,023 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:14:37,028 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-09 18:14:37,031 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:14:37,032 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringMVC 2/src/test/resources
+2015-11-09 18:15:03,844 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:15:03,845 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:15:03,847 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:15:03,847 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:22:49,585 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:22:49,590 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:22:49,592 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:22:49,593 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:23:24,107 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:23:24,108 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:23:24,110 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:23:24,112 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:25:40,126 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:25:40,131 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:25:40,133 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:25:40,134 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:28:01,257 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:28:01,257 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:28:01,259 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:28:01,260 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:29:06,047 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:29:06,047 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:29:06,049 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:29:06,051 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:51:06,033 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:51:06,047 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:51:06,050 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:51:06,050 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:56:35,974 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:56:35,975 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:56:35,976 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:56:35,979 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:56:46,142 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:56:46,142 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:56:46,144 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:56:46,144 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:58:01,619 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:58:01,620 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:58:01,621 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:58:01,622 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 18:58:17,781 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringMVC
+2015-11-09 18:58:17,812 [Worker-25] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for SpringRestfulWebServicesWithJSONExample
+2015-11-09 18:58:18,039 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:58:18,040 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-11-09 18:58:18,042 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:58:18,042 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/SpringMVC 2/src/test/resources
+2015-11-09 18:58:18,140 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:58:18,141 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 18:58:18,145 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 18:58:18,145 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 19:00:58,276 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-09 19:01:21,190 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-11-09 19:01:28,187 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/khan_at/Downloads/neon
+2015-11-09 19:01:28,187 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install compile
+2015-11-09 19:01:56,813 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 19:01:56,814 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 19:01:56,816 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 19:01:56,816 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 19:03:52,139 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 19:03:52,140 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 19:03:52,144 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 19:03:52,145 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 20:32:01,354 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/neon/pom.xml.
+2015-11-09 20:32:01,355 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/neon/pom.xml.
+2015-11-09 20:32:02,403 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 20:32:02,410 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 20:32:02,414 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 20:32:02,415 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 20:32:02,754 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.arpit.java2blog:SpringRestfulWebServicesWithJSONExample:0.0.1-SNAPSHOT @ /Users/khan_at/Downloads/neon/pom.xml.
+2015-11-09 20:32:04,104 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 20:32:04,105 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 20:32:04,108 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 20:32:04,108 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources
+2015-11-09 20:34:48,184 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 20:34:48,199 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/main/resources
+2015-11-09 20:34:48,205 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (US-ASCII actually) to copy filtered resources, i.e. build is platform dependent!
+2015-11-09 20:34:48,205 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/khan_at/Downloads/neon/src/test/resources

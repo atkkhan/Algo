@@ -1,0 +1,5 @@
+package org.neon.service;
+
+public interface ImageCache {
+
+}

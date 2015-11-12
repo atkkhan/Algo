@@ -1,0 +1,26 @@
+package org.neon.bean;
+
+public class Image {
+	private String imageId;
+	private String url;
+	private byte[] image; 
+	public String getImageId() {
+		return imageId;
+	}
+	public void setImageId(String imageId) {
+		this.imageId = imageId;
+	}
+	public String getUrl() {
+		return url;
+	}
+	public void setUrl(String url) {
+		this.url = url;
+	}
+	public byte[] getImage() {
+		return image;
+	}
+	public void setImage(byte[] image) {
+		this.image = image;
+	}
+	
+}

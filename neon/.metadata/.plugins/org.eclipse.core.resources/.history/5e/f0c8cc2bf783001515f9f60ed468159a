@@ -1,0 +1,19 @@
+package org.neon.service;
+
+import java.awt.Image;
+
+public class ImageCacheImpl implements ImageCache {
+
+	@Override
+	public void storeImage(Image img, int w, int h) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Image getImage(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

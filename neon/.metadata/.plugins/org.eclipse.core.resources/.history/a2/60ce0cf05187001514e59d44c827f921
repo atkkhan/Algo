@@ -1,0 +1,5 @@
+package org.neon.controller;
+
+public class MyController {
+
+}

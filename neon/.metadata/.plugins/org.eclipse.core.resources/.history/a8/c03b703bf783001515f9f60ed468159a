@@ -1,0 +1,25 @@
+package org.neon.service;
+
+import java.awt.Image;
+import java.util.Hashtable;
+import java.util.Map;
+
+public class ImageCacheImpl implements ImageCache {
+
+	
+	static public Map <String, Image> cache = new Hashtable<>();
+	
+
+	@Override
+	public void storeImage(Image img, int w, int h) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Image getImage(String id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,65 @@
+package org.neon.service;
+
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.util.Hashtable;
+import java.util.Map;
+import java.util.concurrent.Future;
+
+import org.neon.bean.Image;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.scheduling.annotation.Async;
+import org.springframework.scheduling.annotation.AsyncResult;
+import org.springframework.stereotype.Service;
+
+@Service
+public class ImageProcessor {
+	
+	@Autowired
+	ImageCache cache;
+	
+	@Async
+    public Future<Image> storeImage(byte[] img, String account_id) throws Exception {
+
+		FileOutputStream output = null;		
+		final String fileName = account_id + "/" + System.currentTimeMillis() + ".jpg";
+		
+		try {
+			output = new FileOutputStream(new File(fileName));
+			output.write(img);
+		} catch (Exception e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+			
+			throw new Exception("Unable to save image!.");
+		}
+		finally{
+			try {
+				output.close();
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+		
+		Image image = new Image();
+		image.setImageId(fileName);
+		image.setUrl("/" + account_id + "/image?id=" + fileName);
+		
+		preProcessImage(img, account_id);
+		
+		return new AsyncResult<Image>(image);
+	
+	}
+	
+	@Async
+    public Future<Image> preProcessImage(byte[] img, String account_id) {
+		//code to pre-process images to required format
+		//and store in cache
+		
+		
+		
+		return null;
+	}
+}

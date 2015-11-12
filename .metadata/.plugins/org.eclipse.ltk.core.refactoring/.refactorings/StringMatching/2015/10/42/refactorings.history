@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;James.java&apos; to &apos;PatternMatch_James.java&apos;&#x0A;- Original project: &apos;StringMatching&apos;&#x0A;- Original element: &apos;James.java&apos;&#x0A;- Renamed element: &apos;PatternMatch_James.java&apos;" description="Rename compilation unit &apos;James.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{James.java" name="PatternMatch_James.java" references="false" stamp="1444594910021" version="1.0"/>
+</session>

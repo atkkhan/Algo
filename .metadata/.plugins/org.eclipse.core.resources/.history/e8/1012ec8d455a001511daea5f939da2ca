@@ -1,0 +1,49 @@
+import java.util.ArrayList;
+
+public class AllPurms {
+public static void main(String[] args){
+        
+        ArrayList<Character> arr = new ArrayList<Character>();
+        arr.add('a');
+        arr.add('b');
+        arr.add('c');
+        ArrayList<ArrayList<Character>> all = getPerms(arr, 0);
+        print(all);
+    }
+    
+  public static ArrayList<ArrayList<Character>> getPerms(ArrayList<Character> arr, int index){
+        ArrayList<ArrayList<Character>> allPerms;
+        
+        if(arr.size() == index){
+            allPerms = new ArrayList<ArrayList<Character>>();
+            allPerms.add(new ArrayList<Character>());
+            return allPerms;
+        }
+        else{
+            allPerms = new ArrayList<ArrayList<Character>>();
+            char c = arr.get(index);
+            ArrayList<ArrayList<Character>> more = getPerms(arr, index + 1);
+            for(ArrayList<Character> p : more){
+                ArrayList<ArrayList<Character>> na = new ArrayList<ArrayList<Character>>();
+
+                for(int i = 0; i <= p.size(); ++i){
+                    ArrayList<Character> n = new ArrayList<Character>();
+                    n.addAll(p);
+                    n.add(i, c);
+                    na.add(n);
+                }
+                allPerms.addAll(na);
+            }
+            return allPerms;
+        }
+    }    
+    public static void print(ArrayList<ArrayList<Character>> arr){
+        for(ArrayList<Character> subset: arr){
+            System.out.print("{");
+            for(char i : subset){
+                System.out.print(i + ", ");
+            }
+            System.out.print("},");
+        }
+    }
+}

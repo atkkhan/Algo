@@ -1,0 +1,8 @@
+1446752278502	Delete element
+1446752293203	Delete element
+1446752607468	Rename package 'org.arpit.java2blog.bean'
+1446752621244	Rename package 'org.arpit.java2blog.controller'
+1446753358230	Rename compilation unit 'ImageCacheImpl.java'
+1446753420211	Encapsulate field 'image'
+1446753654170	Encapsulate field 'accountId'
+1446753712329	Rename type 'ImageProcessor'
